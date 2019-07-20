@@ -1,0 +1,11 @@
+indicator,N,T,G,pos,neg
+Percentage of children aged 9-11 months immunized with measles/rubella 1,83.35,91.1,86.3,TGN,NGT
+Percentage of children aged 12-23 months immunized with measles/rubella 2,73.2,67.95,52.2,NTG,GTN
+Percentage of children aged 0-11 months registered for growth monitoring,54,93,74.25,TGN,NGT
+Percentage of children aged 0-23 months registered for growth monitoring,38.15,89.95,46.1,TGN,NGT
+Percentage of children aged 12-23 months registered for growth monitoring,21.8,87.15,19.8,TNG,GNT
+% of children aged 0-23 months registered for Growth Monitoring (New) who were Underweight,5.7,2.25,4.4,NGT,TGN
+Percentage of institutional deliveries,239.1,9.6,34.25,NGT,TGN
+"Percentage of pregnant women who had four ANC checkups as per protocol (4th, 6th, 8th and 9th month)",51.65,21.1,59.4,GNT,TNG
+"Percentage of women who had four ANC check-ups as per protocol (4th, 6th, 8th and 9th months) and delivered in a health facility)",51.65,21.1,59.4,GNT,TNG
+"Percentage of women who had 3 PNC check-ups as per protocol (1st within 24 hours, 2nd within 72 hours and 3rd within 7 days of delivery)",4.1,8.8,20.15,GTN,NTG
